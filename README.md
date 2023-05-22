@@ -1,7 +1,16 @@
 #### [2023-1] 오픈소스 SW 개론
 # Introduction to Open Source SW 
 ## README 작성 과제
- 리눅스 명령어 중에서 <a href="#top">top</a>, <a href="#ps">ps</a>, <a href="#jobs">jobs</a>, <a href="#kill">kill</a> 명령어에 대해서 조사하여 README 파일에 작성 후 제출하기
+ 리눅스 명령어 중에서 아래 네가지 명령어에 대해서 조사하여 README 파일에 작성 후 제출하기
+ 
+ **[명령어 목록 및 이동]**
+   - <a href="#top">top</a> 
+   - <a href="#ps">ps</a>
+   - <a href="#jobs">jobs</a>
+   - <a href="#kill">kill</a>
+
+---
+
 
 <h2 id="top"> [top] </h2>
 
